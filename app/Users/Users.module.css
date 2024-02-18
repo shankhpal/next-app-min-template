@@ -1,0 +1,35 @@
+.button{
+    font-size: 14px;
+    flex:1;
+}
+
+.anchor{
+    color:#868e96;
+}
+
+.icon{
+    color:gray
+}
+
+.text{
+    font-weight: 500; 
+    text-align: center;
+    margin-top: 16px;
+}
+
+.image{
+     height: 100%;
+    object-fit: cover; 
+    border-radius:50%; 
+}
+
+.imageAnchor{
+    display: block; 
+    width: 38%; 
+    margin: auto;
+}
+
+.info{
+    gap:0.3125rem;
+    margin-top: 0.3125rem;
+}
